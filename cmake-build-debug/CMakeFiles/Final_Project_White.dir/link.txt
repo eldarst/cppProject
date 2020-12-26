@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Final_Project_White.dir/main.cpp.o  -o Final_Project_White.exe -Wl,--out-implib,libFinal_Project_White.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

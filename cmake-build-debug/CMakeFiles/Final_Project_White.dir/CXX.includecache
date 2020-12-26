@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/GOSH/CLionProjects/White/Final_Project_White/main.cpp
+iostream
+-
+map
+-
+set
+-
+sstream
+-
+exception
+-
+iomanip
+-
+
